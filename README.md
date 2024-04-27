@@ -1,5 +1,5 @@
 <h3 align="center">
-  Como implementar o Design Pattern Strategy na prática com Java
+  Design Pattern Strategy na prática com Java
 </h3>
 
 <p align="center">
