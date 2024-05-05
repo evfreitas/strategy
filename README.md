@@ -9,7 +9,7 @@
 
 </p>
 
-## :rocket: Tecnologias utilizaas
+## :rocket: Tecnologias utilizadas
 
 * Java 21
 * Spring Boot
