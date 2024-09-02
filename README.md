@@ -11,7 +11,7 @@
 
 Este repositório contém um modelo de uso do pattern Strategy em uma API de notificações.
 
-## Conteúdos
+## Conteúdo
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalacao)
